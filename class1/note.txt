@@ -1,0 +1,24 @@
+HTML is the Skeleton   [Hyper Text Markup Language]
+CSS is the design of a website / web page. [Cascading Style Sheet]
+JS is a language to make a website fully functional. [Java Script] 
+
+We link css and JS file with HTML file to make it operational.
+
+
+*** href =  referance. ***
+
+camel casing = thisIsAnExample
+pascal casing = ThisIsAnExample
+
+Linking of CSS
+Process 1 
+    <link rel="stylesheet" href="stylesheetName.css">
+Process 2
+    HTML direct Embeddedation. Using <style> Tag
+
+
+Linking Process of Script 
+Process 1
+    <script >
+Process 2
+    HTML direct Embeddedation. Using <script> Tag.
